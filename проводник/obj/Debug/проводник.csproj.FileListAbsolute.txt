@@ -1,0 +1,11 @@
+C:\Users\Аленка\source\repos\проводник\проводник\bin\Debug\проводник.exe.config
+C:\Users\Аленка\source\repos\проводник\проводник\bin\Debug\проводник.exe
+C:\Users\Аленка\source\repos\проводник\проводник\bin\Debug\проводник.pdb
+C:\Users\Аленка\source\repos\проводник\проводник\obj\Debug\проводник.csprojAssemblyReference.cache
+C:\Users\Аленка\source\repos\проводник\проводник\obj\Debug\проводник.Form1.resources
+C:\Users\Аленка\source\repos\проводник\проводник\obj\Debug\проводник.Properties.Resources.resources
+C:\Users\Аленка\source\repos\проводник\проводник\obj\Debug\проводник.csproj.GenerateResource.cache
+C:\Users\Аленка\source\repos\проводник\проводник\obj\Debug\проводник.csproj.CoreCompileInputs.cache
+C:\Users\Аленка\source\repos\проводник\проводник\obj\Debug\проводник.exe
+C:\Users\Аленка\source\repos\проводник\проводник\obj\Debug\проводник.pdb
+C:\Users\Аленка\source\repos\проводник\проводник\obj\Debug\проводник.Prop.resources
